@@ -1,17 +1,17 @@
 # 🚀 Smart Data Analyser
 
 <p align="center">
-  <img src="Images/home.png" width="850"/>
+  <img src="screenshots/home.png" width="850"/>
 </p>
 
 <p align="center">
-  <img src="Images/single_mode.png" width="400"/>
-  <img src="Images/multi_mode.png" width="400"/>
+  <img src="screenshots/single_mode.png" width="400"/>
+  <img src="screenshots/multi_mode.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="Images/aggregation_chart.png" width="400"/>
-  <img src="Images/export_success.png" width="400"/>
+  <img src="screenshots/aggregation_chart.png" width="400"/>
+  <img src="screenshots/export_success.png" width="400"/>
 </p>
 
 **Smart Data Analyser** is a **Windows desktop EXE application** that enables users to **clean, merge, append, and analyze data** from single or multiple Excel/CSV files — **without coding, without external tools, and without complex setup**.
