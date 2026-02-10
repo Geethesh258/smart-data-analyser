@@ -1,7 +1,7 @@
 # 🚀 Smart Data Analyser
 
 <p align="center">
-  <img src="Screenshots/quick_analysis with chart.png" width="850"/>
+  <img src="Screenshots/quick_analysis with chart.png" width="800"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="Screenshots/export.png" width="400"/>
+  <img src="Screenshots/export.png" width="800"/>
 </p>
 
 **Smart Data Analyser** is a **Windows desktop EXE application** that enables users to **clean, merge, append, and analyze data** from single or multiple Excel/CSV files — **without coding, without external tools, and without complex setup**.
