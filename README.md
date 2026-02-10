@@ -39,7 +39,7 @@ In real-world analytics projects, **up to 80% of time is spent on data preparati
 - Inconsistent merge logic  
 - Repetitive rework  
 
-**Smart Data Analyser automates this entire workflow** using a simple UI and consistent, rule-based processing.
+**Smart Data Analyser automates this entire workflow** using a simple UI and consistent, rule-based processing. So, user can invest their time on solving business problems and finding insights.
 
 ---
 
@@ -64,6 +64,8 @@ Used when working with **a single dataset**.
 ### 🔹 Mode 2: Multiple File Mode
 
 Used when working with **multiple datasets**.
+
+- Includes all the steps of mode 1.
 
 #### ➕ Append
 - Combine multiple files with the same structure  
@@ -150,13 +152,6 @@ That’s it.
 ✔️ No setup  
 ✔️ No external installations  
 ✔️ Works completely offline  
-
----
-
-## 🧭 Ideal Workflow
-
-
----
 
 ## 🆚 Why This Tool is Different
 
